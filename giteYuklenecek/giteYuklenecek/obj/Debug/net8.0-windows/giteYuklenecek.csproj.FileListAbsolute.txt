@@ -1,0 +1,16 @@
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\bin\Debug\net8.0-windows\giteYuklenecek.exe
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\bin\Debug\net8.0-windows\giteYuklenecek.deps.json
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\bin\Debug\net8.0-windows\giteYuklenecek.runtimeconfig.json
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\bin\Debug\net8.0-windows\giteYuklenecek.dll
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\bin\Debug\net8.0-windows\giteYuklenecek.pdb
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.Form1.resources
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.csproj.GenerateResource.cache
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.AssemblyInfoInputs.cache
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.AssemblyInfo.cs
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.dll
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\refint\giteYuklenecek.dll
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.pdb
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\giteYuklenecek.genruntimeconfig.cache
+C:\Users\Kullanıc\Desktop\giteYuklenecek\giteYuklenecek\obj\Debug\net8.0-windows\ref\giteYuklenecek.dll
