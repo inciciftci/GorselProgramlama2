@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\FoodMerge\\FoodMerge\\FoodMerge.sln",
+    "projects": [
+      "Assembly-CSharp.csproj"
+    ]
+  }
+}
